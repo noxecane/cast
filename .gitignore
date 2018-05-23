@@ -1,3 +1,5 @@
 .cpcache/
-.repl*/
+.shadow-cljs/
+node_modules/
 out/
+target/

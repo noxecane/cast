@@ -1,0 +1,33 @@
+.date-total {
+  fill: none;
+  stroke: steelblue;
+}
+
+.dot {
+  fill: steelblue;
+}
+
+.date-trips {
+  fill: none;
+}
+
+.date-trips.new {
+  stroke: green;
+}
+
+.trip-types .new {
+  fill: green;
+}
+
+.date-trips.repeat {
+  stroke: yellow;
+}
+
+.trip-types .repeat {
+  fill: yellow;
+}
+
+.trip-types {
+  font-size: 12px;
+}
+

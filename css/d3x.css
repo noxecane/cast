@@ -1,0 +1,11 @@
+.axis {
+  text-anchor: end;
+}
+
+.line {
+  fill: none;
+}
+
+.label {
+  text-anchor: end;
+}
